@@ -4,6 +4,6 @@
 - 1931710072 
 
 - Hasil Tugas
-![gambar 1](image/hasil1.jpeg)
-![gambar 2](image/hasil2.jpeg)
+ ![gambar 1](image/hasil1.jpeg)
+ ![gambar 2](image/hasil2.jpeg)
 
